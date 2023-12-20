@@ -1,0 +1,5 @@
+Produs{Denumire='Iaurt', Pret=9.99, Cant=15, DataExp=2023-11-05}
+Produs{Denumire='Paine', Pret=7.99, Cant=25, DataExp=2023-10-18}
+Produs{Denumire='Paine_mic', Pret=4.99, Cant=30, DataExp=2023-10-09}
+Produs{Denumire='Fanta', Pret=6.99, Cant=80, DataExp=2024-08-25}
+Produs{Denumire='Ciocolata', Pret=4.99, Cant=50, DataExp=2023-06-23}
